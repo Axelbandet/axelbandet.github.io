@@ -1,0 +1,28 @@
+baseURL: http://axelbandet.github.io/
+defaultContentLanguage: en
+title: Axelbandet
+sectionPagesMenu: main
+
+languages:
+  sv:
+    languageName: Svenska
+    weight: 1
+    menu:
+      main:
+      - name: Hem
+        url: /
+        weight: 1
+      - name: Axelbandet rf
+        url: /axelbandet-rf
+        weight: 2
+  en:
+    languageName: English
+    weight: 2
+    menu:
+      main:
+      - name: Home
+        url: /
+        weight: 1
+      - name: Axelbandet rf
+        url: /axelbandet-rf
+        weight: 2

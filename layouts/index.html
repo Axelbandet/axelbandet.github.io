@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <header class="homepage-header">
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+            <span class="subtitle">{{.}}</span>
+        {{ end }}
+    </header>
+    <div class="content">
+        {{.Content}}
+    </div>
+</section>
+{{ partial "footer.html" . }}
+  
