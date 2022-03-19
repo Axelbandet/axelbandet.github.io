@@ -2,6 +2,10 @@ baseURL: http://axelbandet.github.io/
 defaultContentLanguage: en
 title: Axelbandet
 sectionPagesMenu: main
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 languages:
   sv:
@@ -15,6 +19,9 @@ languages:
       - name: Axelbandet rf
         url: /axelbandet-rf
         weight: 2
+      - name: Kalender
+        url: /calendar
+        weight: 3
   en:
     languageName: English
     weight: 2
@@ -26,3 +33,6 @@ languages:
       - name: Axelbandet rf
         url: /axelbandet-rf
         weight: 2
+      - name: Calendar
+        url: /calendar
+        weight: 3

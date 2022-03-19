@@ -2,7 +2,7 @@
 
 Axelbandet rf är en finlandssvensk ideell förening i Åbo vars målsättning är att värna om teknologorkestermusikens kultur och traditioner.
 
-## Styrelsen 2022
+# Styrelsen 2022
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|

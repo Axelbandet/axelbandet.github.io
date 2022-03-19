@@ -2,7 +2,7 @@
 
 Axelbandet rf is a registered association (registrerad förening).
 
-## The board 2022
+# The board 2022
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
