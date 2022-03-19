@@ -1,18 +1,67 @@
 body {
+    background-color: rgb(195, 0, 0);
     font-family: sans-serif;
+    margin: 0;
 }
 
-@media (min-width: 35em) {
+.page-wrapper {
+    background-color: white;
+}
+
+.nav {
+    background-color: rgb(34, 34, 34);
+    color: white;
+}
+
+.footer {
+    background-color: rgb(34, 34, 34);
+    color: white;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.menu li {
+    display: block;
+}
+
+.menuitem, .menuitem:link, .menuitem:visited, .menuitem:focus, .menuitem:hover, .menuitem:active {
+    display: inline-block;
+    height: 100%;
+    color: white;
+    font-weight: 700;
+    padding: 0.5em;
+}
+
+@media (min-width: 45em) {
     .page-wrapper {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 2.5em;
-        margin-bottom: 7em;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-top: 2em;
+        padding-bottom: 3em;
+        margin-bottom: 5em;
   
-        max-width: 30em;
+        max-width: 40em;
+
+        border-radius: 4px;
+        box-shadow: 0px 5px 25px 0px rgba(0,0,0,0.30);
     }
-    .header {
+    .nav {
+        padding: 0.5em 1em;
+        margin-left: auto;
+        margin-right: auto;
+  
+        max-width: 40em;
         margin-bottom: 2.5em;
+
+        border-radius: 4px;
+        box-shadow: 0px 5px 25px 0px rgba(0,0,0,0.30);
     }
 
     .footer {
@@ -20,26 +69,51 @@ body {
         flex-direction: row;
         justify-content: center;
     }
+
+    .logo-text {
+        display: block;
+        margin: 1em auto;
+        width: 20em;
+    }
 }
-@media (max-width: 35em) {
+@media (max-width: 45em) {
     .page-wrapper {
-        margin-left: 0.3em;
-        margin-right: 0.4em;
-        margin-bottom: 2em;
+        padding-top: 1em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        padding-bottom: 2em;
+        margin-bottom: 1em;
+    }
+
+    .nav {
+        margin-bottom: 1em;
     }
 
     .footer {
         display: flex;
         flex-direction: column;
     }
+
+    .logo-text {
+        display: block;
+        margin: 0 auto;
+        width: 50%;
+    }
 }
 
 .infotable {
     margin: 1em;
+}
+.infotable a, .infotable a:link, .infotable a:visited, .infotable a:focus, .infotable a:hover, .infotable a:active {
+    color: white;
 }
 
 .infotable tr * {
     padding: 0.5em;
     text-align: start;
     vertical-align: text-top;
+}
+
+iframe {
+    width: 100%;
 }

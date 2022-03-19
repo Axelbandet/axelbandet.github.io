@@ -3,23 +3,23 @@
   {{ partial "head.html" . }}
 
   <body>
-    <div class="page-wrapper">
-      <h1>Axelbandet</h1>
-      <section class="header">
-        <nav>
+    <a href="{{ ref . "/" }}"><img class="logo-text" alt="Axelbandet" src="/ab_namn.svg" /></a>
+    <div class="nav">
+      <nav id="menu">
 {{ partial "menu.html" . }}
-        </nav>
-        <nav>
-          <ul>
-            {{ range .Site.Languages }}
-            {{ if eq . $.Site.Language }}
-              <li>{{ .LanguageName }}</li>
-            {{ else }}
-              {{ range $.Translations }}
-              <li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}</a></li>
-              {{ end }}
+      </nav>
+      <nav id="languages">
+        <ul class="menu">
+          {{ range .Site.Languages }}
+          {{ if eq . $.Site.Language }}
+            <li><span class="menuitem current">{{ .LanguageName }}</span></li>
+          {{ else }}
+            {{ range $.Translations }}
+            <li><a href="{{ .Permalink }}" class="menuitem">{{ .Language.LanguageName }}</a></li>
             {{ end }}
-            {{ end }}
-          </ul>
-        </nav>
-      </section>
+          {{ end }}
+          {{ end }}
+        </ul>
+      </nav>
+    </div>
+    <div class="page-wrapper">
