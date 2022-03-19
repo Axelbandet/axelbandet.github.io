@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+@media (min-width: 35em) {
+    .page-wrapper {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 2.5em;
+        margin-bottom: 7em;
+  
+        max-width: 30em;
+    }
+    .header {
+        margin-bottom: 2.5em;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+}
+@media (max-width: 35em) {
+    .page-wrapper {
+        margin-left: 0.3em;
+        margin-right: 0.4em;
+        margin-bottom: 2em;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.infotable {
+    margin: 1em;
+}
+
+.infotable tr * {
+    padding: 0.5em;
+    text-align: start;
+    vertical-align: text-top;
+}
