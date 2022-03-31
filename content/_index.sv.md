@@ -4,6 +4,8 @@ Javisst! Axelbandet har aldrig slutat spela sedan vi började år 1957, och efte
 
 Vi spelar all sorts musik, från valser till rock, från långsamt till snabbt, från ljud till oljud, och ibland alla de här samtidigt.
 
+*Axelbandet - En fröjd för örat, en överraskning för ögat, och en lätt chock för näsan!*
+
 # Jag vill att ni spelar på vår fest!
 
 Bästa sättet att boka oss är att skicka epost till **ab@abo.fi**! Kolla [kalendern]({{< ref "calendar" >}}) för att se när vi redan är bokade, och berätta vad ni har för sorts evenemang, när det händer, vilken sorts musik ni vill höra, osv.
