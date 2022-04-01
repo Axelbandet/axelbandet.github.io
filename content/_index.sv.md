@@ -1,6 +1,6 @@
 # Är det ni som är Axelbandet?
 
-Javisst! Axelbandet har aldrig slutat spela sedan vi började år 1957, och eftersom det är en aning tungt att spela nonstop, så vill vi att även Du kommer med och hjälper oss uppnå vårt mål: att förvirra så många som möjligt.
+Javisst! Axelbandet, Åbo Akademis största, bästa, och enda big band, har aldrig slutat spela sedan vi började år 1957, och eftersom det är en aning tungt att spela nonstop, så vill vi att även Du kommer med och hjälper oss uppnå vårt mål: att förvirra så många som möjligt.
 
 Vi spelar all sorts musik, från valser till rock, från långsamt till snabbt, från ljud till oljud, och ibland alla de här samtidigt.
 
