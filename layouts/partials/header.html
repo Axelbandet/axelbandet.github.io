@@ -10,14 +10,12 @@
       </nav>
       <nav id="languages">
         <ul class="menu">
-          {{ range .Site.Languages }}
-          {{ if eq . $.Site.Language }}
-            <li><span class="menuitem current">{{ .LanguageName }}</span></li>
-          {{ else }}
-            {{ range $.Translations }}
-            <li><a href="{{ .Permalink }}" class="menuitem">{{ .Language.LanguageName }}</a></li>
+          {{ range $.AllTranslations }}
+            {{ if eq .Language $.Site.Language }}
+              <li><span class="menuitem">{{ .Language.LanguageName }}</span></li>
+            {{ else }}
+              <li><a href="{{ .Permalink }}" class="menuitem">{{ .Language.LanguageName }}</a></li>
             {{ end }}
-          {{ end }}
           {{ end }}
         </ul>
       </nav>

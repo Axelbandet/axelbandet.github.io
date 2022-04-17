@@ -42,3 +42,14 @@ languages:
       - name: Media
         url: /media
         weight: 4
+  fi:
+    languageName: Suomeksi
+    weight: 3
+    menu:
+      main:
+      - name: Koti
+        url: /
+        weight: 1
+      - name: Kalenteri
+        url: /
+        weight: 2
