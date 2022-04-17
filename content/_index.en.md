@@ -12,6 +12,6 @@ To book us, the most reliable way to contact us is to send us an email at **ab@a
 
 *One of us...*
 
-I mean, great! Take all of your musical knowledge (whether that's nothing at all, or you're a highly educated professional musician), pack it in a bag, and take it with you to our practice at **Kåren** (Argentinasalen) the next **Monday at 18:00**. (Check the [calendar]({{< ref "calendar" >}}) for exceptions to this.)
+I mean, great! Take all of your musical knowledge (whether that's nothing at all, or you're a highly educated professional musician), your instrument if you have one, pack it in a bag, and take it with you to our practice at **Kåren** (Argentinasalen) the next **Monday at 18:00**. (Check the [calendar]({{< ref "calendar" >}}) for exceptions to this.)
 
 We will gladly welcome anyone regardless of how much you know about music from before.
