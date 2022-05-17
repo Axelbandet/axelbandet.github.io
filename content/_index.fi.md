@@ -8,4 +8,4 @@ Tarkista [kalenteristamme]({{< ref "calendar" >}}) milloin olemme vapaana, ja l�
 
 # Miten liityn mukaan?
 
-Sinun ei tarvitse tietää etukäteen mitään musiikista liittyäksesi Axelbandetiin! Tule seuraaviin harjoituksiin **Kårenilla** (Argentinasalen) **maanantaisin klo 18.00**, ja ota mukaan oma soitin jos sinulla on sellainen. Tarkista [kalenteri]({{< ref "calendar" >}}) poikkeusten varalta.
+Sinun ei tarvitse tietää etukäteen mitään musiikista liittyäksesi Axelbandetiin! Tule seuraaviin harjoituksiin **Loftetilla** (Geologicumin kellari) **maanantaisin klo 18.00**, ja ota mukaan oma soitin jos sinulla on sellainen. Tarkista [kalenteri]({{< ref "calendar" >}}) poikkeusten varalta.
