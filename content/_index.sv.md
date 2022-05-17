@@ -14,8 +14,8 @@ Bästa sättet att boka oss är att skicka epost till **ab@abo.fi**! Kolla [kale
 
 *Precis som profetiorna förutsade...*
 
-Ursäkta! Ta alltså all din musikaliska kunskap (oavsett hur mycket eller lite det finns) och ditt instrument om du har ett sådant, packa allt i en väska, och ta med den till vår övning på **Kåren** (Argentinasalen) nästa **måndag klockan 18:00**. (Kolla [kalendern]({{< ref "calendar" >}}) ifall det är undantag.)
+Ursäkta! Ta alltså all din musikaliska kunskap (oavsett hur mycket eller lite det finns) och ditt instrument om du har ett sådant, packa allt i en väska, och ta med den till vår övning på **Loftet** (Källaren i Geologicum) nästa **måndag klockan 18:00**. (Kolla [kalendern]({{< ref "calendar" >}}) ifall det är undantag.)
 
 Alla är välkomna, du behöver inte veta något om musik från förr!
 
-[![Axelbandet comic](/comic.png)](/comic.png)
+[![Axelbandet comic](/comic.jpg)](/comic.jpg)
