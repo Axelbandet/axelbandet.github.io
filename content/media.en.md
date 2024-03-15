@@ -16,9 +16,12 @@ Axelbandet is a multimedia experience. The multiple media in question are, among
 
 ## Discography
 
-Throughout our existence, we have recorded five albums. Four of them are available in a format that is convenient to listen to.
+Throughout our existence, we have recorded six albums. Five of them are available in a format that is convenient to listen to.
 
-When will the sixth album be released...?
+### Axelbandet – En Applåd (2024)
+
+<img src="/axelbandet-en-applad.jpg" class="albumcover" />
+<iframe class="spotify" src="https://open.spotify.com/embed/album/1eEGRS1VjO1a1oPBdU36AL" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### W (2002)
 

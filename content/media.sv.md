@@ -16,9 +16,12 @@ Axelbandet är en multimediaupplevelse. Axelbandets media finns i flera format, 
 
 ## Skivografi
 
-Genom tiderna har Axelbandet gett ut fem skivor. Fyra av dem finns i format som är lätta att lyssna på.
+Genom tiderna har Axelbandet gett ut sex skivor. Fem av dem finns i format som är lätta att lyssna på.
 
-När kommer den sjätte skivan ut...?
+### Axelbandet – En Applåd (2024)
+
+<img src="/axelbandet-en-applad.jpg" class="albumcover" />
+<iframe class="spotify" src="https://open.spotify.com/embed/album/1eEGRS1VjO1a1oPBdU36AL" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### W (2002)
 
