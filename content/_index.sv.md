@@ -1,3 +1,14 @@
+# Axelnatten 2024
+
+<img src="/axelbandet2024poster.webp" />
+
+A spectacular parody of and/or tribute to Eurovision Song Contest
+
+Where? <a href="https://maps.app.goo.gl/Xbc4jg1jxcP1AW5q9">Kåren - Tavastgatan 22, Åbo</a>
+When? Saturday 23. March at 20.00-23:30
+
+Tickets are available online and at the door. <a href="https://fienta.com/axelnatten-2024-axelvision-song-contest">Buy ticket online</a>
+
 # Är det ni som är Axelbandet?
 
 Javisst! Axelbandet, Åbo Akademis största, bästa, och enda big band, har aldrig slutat spela sedan vi började år 1957, och eftersom det är en aning tungt att spela nonstop, så vill vi att även Du kommer med och hjälper oss uppnå vårt mål: att förvirra så många som möjligt.
