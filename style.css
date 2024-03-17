@@ -150,7 +150,6 @@ img {
 }
 
 .ab-logo-index {
-    visibility: hidden; /* TODO remove this when removing axelnatten 2024*/
     width: 30%;
     margin: 0 auto;
     float: right;
