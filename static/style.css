@@ -179,8 +179,12 @@ iframe {
 }
 
 .axelnatten-link {
-    background-color: rgba(230, 0, 0, 0.7);;
+    background-color: rgba(230, 0, 0, 0.7);
     color: white;
-    padding: 1em 1.5em;
+    padding: 0.25em;
     text-decoration: none;
-  }
+}
+
+.axelnatten-link:hover {
+    opacity: 80%;
+}
