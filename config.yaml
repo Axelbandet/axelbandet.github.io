@@ -42,6 +42,9 @@ languages:
       - name: Media
         url: /media
         weight: 4
+      - name: NATOM 2024
+        url: /natom
+        weight: 5
   fi:
     languageName: Suomeksi
     weight: 3
