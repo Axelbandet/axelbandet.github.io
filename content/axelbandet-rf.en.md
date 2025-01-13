@@ -10,8 +10,7 @@ Axelbandet rf is a registered association (registrerad förening).
 |Vice chair|Linnea Sundström|
 |Treasurer|Sidner Olin|
 |Secretary|Ingrid Möller|
-|Inventarieförvaltare|Anton Nordman|
+|Inventory manager|Anton Nordman|
 |Head of events|Olivia Sjölund|
-|Other member|Lilli Laine|
-|Other member|Olivia Sjölund|
+|Information officer|Lilli Laine|
 |Other member|Jenny Smeds|
