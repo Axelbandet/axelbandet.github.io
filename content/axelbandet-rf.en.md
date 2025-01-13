@@ -2,15 +2,16 @@
 
 Axelbandet rf is a registered association (registrerad förening).
 
-## The board 2024
+## The board 2025
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-|Ordförande|Olivia Sjölund|
-|Vice ordförande|Emma Finne|
-|Kassör|Fredrik Dahl|
-|Sekreterare|Linnea Sundström|
-|Inventarieförvaltare|Sidner Olin|
-|Eventchef|Niklas Linderoos|
-|Övrig medlem|Stella Maurizi|
-|Övrig medlem|Anton Nordman|
+|Chair|Niklas Linderoos|
+|Vice chair|Linnea Sundström|
+|Treasurer|Sidner Olin|
+|Secretary|Ingrid Möller|
+|Inventarieförvaltare|Anton Nordman|
+|Head of events|Olivia Sjölund|
+|Other member|Lilli Laine|
+|Other member|Olivia Sjölund|
+|Other member|Jenny Smeds|
