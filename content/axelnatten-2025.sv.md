@@ -1,4 +1,4 @@
-# Axelnatten 29 mars 2025
+# Axelnatten 2025
 
 Swing it magistern, kandidaten och alla andra!
 
