@@ -12,6 +12,5 @@ Axelbandet rf är en finlandssvensk ideell förening i Åbo vars målsättning �
 |Sekreterare|Ingrid Möller|
 |Inventarieförvaltare|Anton Nordman|
 |Eventchef|Olivia Sjölund|
-|Övrig medlem|Lilli Laine|
-|Övrig medlem|Olivia Sjölund|
+|Informatör|Lilli Laine|
 |Övrig medlem|Jenny Smeds|
