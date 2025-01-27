@@ -25,6 +25,9 @@ languages:
       - name: Media
         url: /media
         weight: 4
+      - name: Axelnatten 2025
+        url: /axelnatten-2025
+        weight: 5
   en:
     languageName: In English
     weight: 2
@@ -42,8 +45,8 @@ languages:
       - name: Media
         url: /media
         weight: 4
-      - name: NATOM 2024
-        url: /natom
+      - name: Axelnatten 2025
+        url: /axelnatten-2025
         weight: 5
   fi:
     languageName: Suomeksi
