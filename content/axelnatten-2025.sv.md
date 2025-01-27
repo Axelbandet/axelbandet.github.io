@@ -4,7 +4,7 @@ Swing it magistern, kandidaten och alla andra!
 
 Axelbandets årliga konsert Axelnatten äger rum **29.3 kl. 17:00-19:30** på Kåren i Åbo.
 
-På denna festkonsert, som i år har temat *Den förbjudna swingnatten*, kommer vi dels att spela låtar ur vår vanliga repertoar men också swingtolkningar av kanske intuitivt oswingiga låtar. På med dansskorna, håll i hatten och kom med!
+På denna festkonsert med temat *Den förbjudna swingnatten* kommer vi dels att spela låtar ur vår vanliga repertoar men också swingtolkningar av kanske intuitivt oswingiga låtar. På med dansskorna, håll i hatten och kom med!
 
 # Biljetter till showen
 
