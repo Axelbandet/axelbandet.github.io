@@ -8,7 +8,13 @@ På denna festkonsert med temat *Den förbjudna swingnatten* kommer vi dels att 
 
 # Biljetter till showen
 
-Inom kort kommer det gå att köpa biljetter till Axelnatten här.
+Biljetter till Axelnatten [köper du på Fienta](https://fienta.com/sv/axelnatten2025) eller vid dörren.
+
+Grupprabatt tillgänglig för grupper på åtta eller fler.
+Biljettförsäljningen online stänger 23.59 28.3
+
+Förköpsbiljetter online: 10€ studerande/ 12€ normal
+Biljetter vid dörren: 12€ studerande / 15€ normal
 
 # Gästande orkestrar
 
