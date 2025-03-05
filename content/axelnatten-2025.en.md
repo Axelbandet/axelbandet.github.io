@@ -6,9 +6,18 @@ Axelbandet’s annual concert Axelnatten takes place on **29 March at 17:00-19:3
 
 At this festive concert, which this year has the theme *Forbidden Swing-natten*, we will play songs from our regular repertoire as well as swing interpretations of perhaps intuitively unswinging songs. Put on your dancing shoes, hold on to your hat and come along!
 
+Doors open: 16:00
+Concert starts: 17:00
+
 # Tickets for the show
 
-We will soon open online ticket sales for Axelnatten here.
+Tickets are bought [at Fienta](https://fienta.com/axelnatten2025) or at the door. 
+
+Group discount available for groups of eight and more.
+Online ticket sales end 23.59 28.3.
+
+Online tickets: 10€ student/ 12€ normal
+Tickets at the door: 12€ student / 15€ normal
 
 # Visiting orchestras
 
