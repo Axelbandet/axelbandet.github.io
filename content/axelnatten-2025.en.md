@@ -11,7 +11,7 @@ Concert starts: 17:00
 
 # Tickets for the show
 
-Tickets are bought [at Fienta](https://fienta.com/axelnatten2025) or at the door. 
+Tickets are [bought at Fienta](https://fienta.com/axelnatten2025) or at the door. 
 
 Group discount available for groups of eight and more.
 Online ticket sales end 23.59 28.3.
