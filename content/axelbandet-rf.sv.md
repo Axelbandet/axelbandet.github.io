@@ -2,15 +2,15 @@
 
 Axelbandet rf är en finlandssvensk ideell förening i Åbo vars målsättning är att värna om teknologorkestermusikens kultur och traditioner.
 
-## Styrelsen 2025
+## Styrelsen 2026
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-|Ordförande|Niklas Linderoos|
-|Vice ordförande|Linnea Sundström|
-|Kassör|Sidner Olin|
-|Sekreterare|Ingrid Möller|
-|Inventarieförvaltare|Anton Nordman|
-|Eventchef|Olivia Sjölund|
+|Ordförande|Anton Nordman|
+|Vice ordförande|Emma Finne|
+|Kassör|Stella Maurizi|
+|Sekreterare|Jenny Smeds|
+|Inventarieförvaltare|Edvard Määttälä|
+|Eventchef|Sidner Olin|
 |Informatör|Lilli Laine|
-|Övrig medlem|Jenny Smeds|
+|Övrig medlem|Olivia Sjölund|
